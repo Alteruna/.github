@@ -24,7 +24,7 @@ Get detailed insights into our technology: [Alteruna API Docs](https://alteruna.
 
 ### Get Involved 🌱
 
-Your contributions are what drive us forward. Whether it's code, ideas, or feedback, we value your input. Let's innovate together!
+Your contributions are what drive us forward. Whether it's code, ideas, or feedback, we value your input. Help us co-develop our open source templates. Let's innovate together!
 
 ### Contact Us 📞
 
